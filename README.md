@@ -2,7 +2,7 @@
 
 
 ## Objective
-ABC store wants to create an annual sales report for 2022. So that ABC can understand their customers and grow more sales in 2023.
+ABC Store wants to create an annual sales report for 2022 so that it can understand its customers and grow its sales in 2023.
 
 The dashboard consists of charts answering the following questions:
 - Compare the sales and orders using a single chart
